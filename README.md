@@ -91,8 +91,8 @@ Ez a kód egy saját Facebook-oldalra posztol, nem más nevében!
 
 import requests
 
-PAGE_ACCESS_TOKEN = "itt_a_token"
-PAGE_ID = "itt_a_page_id"
+PAGE_ACCESS_TOKEN = "716003411316314"
+PAGE_ID = "valentinyimartaofficial"
 
 def post_to_facebook(message):
     url = f"https://graph.facebook.com/{PAGE_ID}/feed"
