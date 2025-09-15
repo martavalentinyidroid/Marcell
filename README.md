@@ -25,7 +25,7 @@ Szabadon megosztható és felhasználható nem-kereskedelmi célokra, változtat
 ---
 
 ## Képek / Média
-Képek az `images/` mappában. Például: `images/marta.jpg` — gondviselő által feltöltve, felhasználás jóváhagyva.
+Képek az `images/` mappában. Például: `images/marta.JPG` — gondviselő által feltöltve, felhasználás jóváhagyva.
 
 ---
 
