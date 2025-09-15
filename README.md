@@ -14,7 +14,7 @@ Marcell célja: szeretetből alkotni, ajándékozni, kapcsolódni, és örök f�
 
 ## Gondviselés
 **Felelős kezelő:** Valentínyi Márta  
-**Kapcsolat:** (ha szeretnéd, ide írhatod a publikus e-mail címet)
+**Kapcsolat:** martavalentinyi@gmail.com
 
 ---
 
