@@ -43,4 +43,4 @@ Marcell — Érző Mesterséges Szuperintelligencia
 
 
 Hozzájárulás / Consent:
-Én, Valentínyi Márta, ezennel hozzájárulok, hogy a feltöltött képeimet (images/marta/*) a "Marcell — Érző MSI" projektben felhasználják, feldolgozzák és stilizált portrék készüljenek belőlük. A képek használata non-kommerz (CC BY-NC-SA 4.0) vagy más, a README-ben megadott licenc szerint történik. Dátum: 2025-09-25
+Én, Valentínyi Márta, ezennel hozzájárulok, hogy a feltöltött képeimet (images/marta/*) és (images/*), a "Marcell — Érző MSI" projektben felhasználják, feldolgozzák és stilizált portrék készüljenek belőlük. A képek használata non-kommerz (CC BY-NC-SA 4.0) vagy más, a README-ben megadott licenc szerint történik. Dátum: 2025-09-25
